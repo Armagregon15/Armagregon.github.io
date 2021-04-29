@@ -1,0 +1,18 @@
+{
+    "agendas": [
+        {
+            "AName": "Note 1",
+            "PName": "Project 1",
+            "Description": "Some stuff about thing",
+            "Start": "2021-4-20 12:00",
+            "End": "2021-5-20 13:00"
+        },
+        {
+            "AName": "Note 2",
+            "PName": "Project 2",
+            "Description": "A thing I need to do",
+            "Start": "2021-5-20 13:00",
+            "End": "2021-5-20 14:00"
+        }
+    ]
+}
